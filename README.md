@@ -98,6 +98,18 @@ data-warehouse-project/
 ```
 ---
 
+## ☕ Stay Connected
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thomas-data)
+
+
+- ✅ **SQL Data Warehouse Project:** [GIT Repo](https://github.com/Thomas-DataLab/sql-data-warehouse-project)
+- ✅ **SQL Advanced Data Analysis Project:** [GIT Repo](https://github.com/Thomas-DataLab/sql-data-analytics-project)
+- 📊 **Power BI Dashboard Project:** [GIT Repo](https://github.com/Thomas-DataLab/Power_BI_Dashboards)
+  
+---
 
 ## 🛡️ License
 
